@@ -1,0 +1,14 @@
+{
+  "name": "devdemo",
+  "version": "1.0.0",
+  "description": "Demo for course: HubSpot CMS for Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Matthew Thornett",
+  "license": "MIT",
+  "dependencies": {
+    "express":"^4.17.1"
+  }
+}
