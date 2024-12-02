@@ -1,5 +1,5 @@
 node_modules/
 .env
-
+test-theme/
 # HubSpot config file
 hubspot.config.yml
